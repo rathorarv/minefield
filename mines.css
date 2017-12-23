@@ -1,0 +1,57 @@
+button {
+  background-color: lightsteelblue;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  font-size: 30px
+}
+
+.mine {
+  border: 1px solid black;
+  background-color: lightsteelblue;
+}
+
+.text {
+  padding-top: 300px;
+  color: black;
+  position: absolute;
+  font-size: 100px;
+  z-index: 1;
+  visibility: hidden;
+  margin-left: 120px;
+}
+
+.forRelativeDiv {
+  float:left;
+  position:relative;
+}
+
+.alert {
+  margin-left: 100px;
+  margin-top: 140px;
+  font-size: 80px;
+}
+
+#count {
+  position: absolute;
+  font-size: 30px;
+  color: green; 
+}
+
+.heading {
+  color:steelblue"
+}
+
+#table {
+  border:1px solid black;
+  width:50em;
+  height:40em;
+  align-content:center
+}
+
+#reset {
+  background-color:lightsteelblue;
+  width:120px;
+  border:1px solid black;
+  margin-left:100px;
+}
